@@ -1,0 +1,8 @@
+{
+  "name": "College Complaint & Issue Tracking System",
+  "version": "1.0.0",
+  "frontend": "HTML5/CSS3/JavaScript GUI prototype",
+  "planned_backend": "Node.js + Express.js",
+  "planned_database": "MongoDB",
+  "tagline": "Report. Track. Resolve."
+}
